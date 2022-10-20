@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+
+
 :root {
   
   
@@ -34,10 +38,10 @@ body {
   padding: 0;
   box-sizing: border-box;
   color: var(--color-principal);
+  font-family: 'Quicksand' , sans-serif;
   font-size: 1.2rem;
   
 }
-
 
 
 butons {
